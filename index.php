@@ -1,1 +1,1 @@
-hallo, ini adalah percobaan git master dan branch baru. #1
+hallo, ini adalah percobaan git master dan branch baru. #2
